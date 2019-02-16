@@ -1,5 +1,3 @@
-.
-.
 m=input('Enter number of FFs : ');
 while 1
     b=input('Enter sequence [ ]: ');
